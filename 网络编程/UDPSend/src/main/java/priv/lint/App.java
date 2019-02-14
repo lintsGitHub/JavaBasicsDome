@@ -22,7 +22,7 @@ public class App
 //        长度
         int length = by.length;
 //        IP地址对象
-        InetAddress address = InetAddress.getByName("192.168.191.1");
+        InetAddress address = InetAddress.getByName("192.168.43.98");
 //        端口
         int port = 10087;
 //        数据打包
