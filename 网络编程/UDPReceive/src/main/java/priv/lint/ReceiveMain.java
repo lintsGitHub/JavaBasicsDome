@@ -34,7 +34,8 @@ public class ReceiveMain {
         int length = bytes.length;
         DatagramPacket datagramPacket = new DatagramPacket(bytes, length);
 //        调用Socket对象的接收方法进行接收数据
-        datagramSocket.receive(datagramPacket);
+        datagramSocket.receive(datagramPacket); //这个方法是阻塞，也就是等到接收到数据才停止
+
 //        解析数据，数据可视化
         byte[] data = datagramPacket.getData(); //获取数据缓冲区
         int length1 = data.length; //获取数据实际长度
