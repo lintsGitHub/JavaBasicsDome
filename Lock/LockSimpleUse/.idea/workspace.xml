@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b8bac1-1850-4eba-bc90-44c8480becfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/LockDome/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/lint/LockDome/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/_state/global-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/_state/state-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/_state/state-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/_state/state-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/_state/state-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/_state/state-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/_state/state-3.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/main/java/priv/lint/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/test/java/priv/lint/AppTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,7 +100,9 @@
     <option name="width" value="681" />
     <option name="height" value="468" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -219,15 +209,16 @@
       <updated>1550557771050</updated>
       <workItem from="1550557774428" duration="5511000" />
       <workItem from="1550583898854" duration="1562000" />
-      <workItem from="1550623066344" duration="1577000" />
+      <workItem from="1550623066344" duration="1980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8650000" />
+    <option name="totallyTimeSpent" value="9053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2587519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
