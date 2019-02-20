@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9b8bac1-1850-4eba-bc90-44c8480becfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Question1.class" afterDir="false" />
-    </list>
+    <list default="true" id="b9b8bac1-1850-4eba-bc90-44c8480becfc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -215,12 +209,12 @@
       <workItem from="1550583898854" duration="1562000" />
       <workItem from="1550623066344" duration="1980000" />
       <workItem from="1550642838044" duration="587000" />
-      <workItem from="1550659908245" duration="520000" />
+      <workItem from="1550659908245" duration="592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10160000" />
+    <option name="totallyTimeSpent" value="10232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="681" height="468" extended-state="1" />

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93858411-2165-4f79-a983-e0d6166f13ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Lock/LockSimpleUse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lock/LockSimpleUse/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/First/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/lint/First/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/First/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/lint/First/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/First/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/lint/First/Question1.class" afterDir="false" />
-    </list>
+    <list default="true" id="93858411-2165-4f79-a983-e0d6166f13ff" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="681" />
@@ -262,15 +256,15 @@
       <updated>1550626943670</updated>
       <workItem from="1550626947099" duration="897000" />
       <workItem from="1550642841277" duration="5592000" />
-      <workItem from="1550659910099" duration="519000" />
+      <workItem from="1550659910099" duration="860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7008000" />
+    <option name="totallyTimeSpent" value="7349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2777778" />
