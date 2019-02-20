@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b8bac1-1850-4eba-bc90-44c8480becfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/main/java/priv/lint/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/test/java/priv/lint/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Question1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +23,9 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.36" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,7 +64,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/LockDome/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
+            <state relative-caret-position="209">
               <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,7 +98,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="681" />
@@ -109,6 +113,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,17 +214,19 @@
       <workItem from="1550557774428" duration="5511000" />
       <workItem from="1550583898854" duration="1562000" />
       <workItem from="1550623066344" duration="1980000" />
+      <workItem from="1550642838044" duration="587000" />
+      <workItem from="1550659908245" duration="520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9053000" />
+    <option name="totallyTimeSpent" value="10160000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="681" height="468" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2587519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27406198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -265,7 +271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/LockDome/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
+        <state relative-caret-position="209">
           <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
