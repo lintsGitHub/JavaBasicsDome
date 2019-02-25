@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d87af2-3965-4aba-b748-d1638bb9ae51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TCP/src/main/java/priv/lint/TCPDome/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/_state/global-7.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/_state/state-7.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/index/segments_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/_state/state-7.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/index/segments_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/_state/state-7.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/index/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-1.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-2.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-2.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-3.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-3.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-4.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-4.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-5.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-5.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-6.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-6.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-7.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-7.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog-8.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/_state/state-7.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/index/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-1.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-2.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-2.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-3.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-3.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-4.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-4.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-5.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-5.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-6.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-6.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-7.ckp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-7.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog-8.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/_state/state-7.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/index/segments_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/_state/state-9.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/DOSChat/UDPReceive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/DOSChat/UDPSend.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -95,25 +51,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPReceive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/DOSChat/UDPReceive.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/DOSChat/UDPSend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="48">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -122,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPSend.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="48" column="12" lean-forward="true" selection-end-line="59" />
+              <caret line="48" column="12" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -157,7 +99,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="681" />
@@ -215,16 +157,6 @@
               <item name="priv" type="462c0819:PsiDirectoryNode" />
               <item name="lint" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UDPSendAndReceiveOptimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UDPSendAndReceiveOptimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="priv" type="462c0819:PsiDirectoryNode" />
-              <item name="lint" type="462c0819:PsiDirectoryNode" />
-              <item name="DOSChat" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -239,6 +171,9 @@
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="priv.lint.DOSChat" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\SSM\Java基础\网络编程\UDPSendAndReceiveOptimization\src\main\java\priv\lint\ChatDome" />
     </key>
@@ -337,12 +272,12 @@
       <workItem from="1550545346665" duration="9000" />
       <workItem from="1551084506826" duration="2944000" />
       <workItem from="1551092541715" duration="640000" />
-      <workItem from="1551099856152" duration="1294000" />
+      <workItem from="1551099856152" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6972000" />
+    <option name="totallyTimeSpent" value="8250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -418,14 +353,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPSend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="48" column="12" lean-forward="true" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPReceive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <caret line="48" column="12" selection-end-line="59" />
         </state>
       </provider>
     </entry>
@@ -436,6 +364,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPReceive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
