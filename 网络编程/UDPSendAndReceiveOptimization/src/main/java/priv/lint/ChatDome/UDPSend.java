@@ -39,11 +39,13 @@ public class UDPSend {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String line = "";
         while ((line = bufferedReader.readLine()) != null){
+            if (line.equals("1"))
+                break;
 //        创建要发送的数据
         byte[] bytes = line.getBytes();
         int length = bytes.length;
-//        配置要发送的IP
-        InetAddress inetAddress = InetAddress.getByName("192.168.43.98");
+//        配置要发送的IP xxx.xx.x.255是广播地址
+        InetAddress inetAddress = InetAddress.getByName("192.168.43.255");
 //        端口
         int post = 10022;
 //        将数据打包
