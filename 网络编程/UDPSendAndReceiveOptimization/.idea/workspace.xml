@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9d87af2-3965-4aba-b748-d1638bb9ae51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TCP/src/main/java/priv/lint/TCPDome/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP/src/main/java/priv/lint/TCPDome/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP/src/main/java/priv/lint/TCPDome/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP/src/main/java/priv/lint/TCPDome/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/DOSChat/UDPReceive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/DOSChat/UDPSend.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -272,15 +272,15 @@
       <workItem from="1550545346665" duration="9000" />
       <workItem from="1551084506826" duration="2944000" />
       <workItem from="1551092541715" duration="640000" />
-      <workItem from="1551099856152" duration="2572000" />
+      <workItem from="1551099856152" duration="2868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8250000" />
+    <option name="totallyTimeSpent" value="8546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2564688" />
