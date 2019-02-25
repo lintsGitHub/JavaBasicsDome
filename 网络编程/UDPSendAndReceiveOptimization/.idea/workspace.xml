@@ -3,7 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="a9d87af2-3965-4aba-b748-d1638bb9ae51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../IO流/TxtIOReadDome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IO流/TxtIOReadDome/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/_state/global-6.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/_state/state-6.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/index/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/_state/state-6.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/index/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/_state/state-6.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/index/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/_state/state-6.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/index/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/_state/state-6.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/index/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demos/data/elasticsearch/nodes/0/indices/blog/_state/state-8.st" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,28 +36,28 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="681" />
+          <entry key="java" value="952" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="681" />
+          <entry key="JAVA" value="952" />
         </counts>
       </usages-collector>
     </session>
@@ -56,7 +73,19 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/UDPSend.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/UDPReceive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-128">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,13 +94,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/UDPReceive.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPReceive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="504">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPSend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -93,6 +128,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/UDPSend.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/UDPReceive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPReceive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPSend.java" />
       </list>
     </option>
   </component>
@@ -102,7 +139,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="681" />
@@ -116,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,12 +196,21 @@
               <item name="priv" type="462c0819:PsiDirectoryNode" />
               <item name="lint" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UDPSendAndReceiveOptimization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UDPSendAndReceiveOptimization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="lint" type="462c0819:PsiDirectoryNode" />
+              <item name="ChatDome" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,6 +219,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SSM\Java基础\网络编程\UDPSendAndReceiveOptimization\src\main\java\priv\lint\ChatDome" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,13 +237,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UDPSend">
+  <component name="RunManager" selected="Application.UDPSend (1)">
+    <configuration name="UDPReceive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lint.ChatDome.UDPReceive" />
+      <module name="UDPSendAndReceiveOptimization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.lint.ChatDome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UDPReceive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="priv.lint.UDPReceive" />
       <module name="UDPSendAndReceiveOptimization" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="priv.lint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPSend (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lint.ChatDome.UDPSend" />
+      <module name="UDPSendAndReceiveOptimization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.lint.ChatDome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,9 +293,13 @@
     <list>
       <item itemvalue="Application.UDPReceive" />
       <item itemvalue="Application.UDPSend" />
+      <item itemvalue="Application.UDPSend (1)" />
+      <item itemvalue="Application.UDPReceive (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UDPSend (1)" />
+        <item itemvalue="Application.UDPReceive (1)" />
         <item itemvalue="Application.UDPSend" />
         <item itemvalue="Application.UDPReceive" />
       </list>
@@ -235,17 +317,18 @@
       <updated>1550418144698</updated>
       <workItem from="1550418149877" duration="2085000" />
       <workItem from="1550545346665" duration="9000" />
+      <workItem from="1551084506826" duration="2306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2094000" />
+    <option name="totallyTimeSpent" value="4400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24429224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24885845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -253,7 +336,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36031747" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.06031746" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,7 +384,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/UDPSend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -310,11 +393,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/UDPReceive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="-128">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/ChatDome/UDPReceive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
