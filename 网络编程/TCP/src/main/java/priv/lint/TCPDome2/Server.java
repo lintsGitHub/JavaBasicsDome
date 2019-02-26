@@ -11,7 +11,7 @@ public class Server {
 //        创建服务器Socket对象
         ServerSocket serverSocket = new ServerSocket(6666);
 //        监听客户端连接
-        Socket accept = serverSocket.accept();
+        Socket accept = serverSocket.accept(); //阻塞
 //        获取输入流
         InputStream inputStream = accept.getInputStream();
 
