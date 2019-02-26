@@ -6,6 +6,9 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/*
+* 服务器接收，并返回信息给客户端
+* */
 public class Server {
     public static void main(String[] args) throws IOException {
 //        创建服务器Socket对象
