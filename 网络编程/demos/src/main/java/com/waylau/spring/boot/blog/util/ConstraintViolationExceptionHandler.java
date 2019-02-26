@@ -13,14 +13,14 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * @author Administrator
- *
+ * @date 2019/1/20
  */
 public class ConstraintViolationExceptionHandler {
 
 	/**
 	 * 获取批量异常信息
 	 * @param e
-	 * @return
+	 * @return messages
 	 */
 	public static String getMessage(ConstraintViolationException e) {
 		List<String> msgList = new ArrayList<>();

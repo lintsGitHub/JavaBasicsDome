@@ -34,8 +34,8 @@ import com.waylau.spring.boot.blog.vo.TagVO;
 /**
  * EsBlog 服务.
  * 
- * @since 1.0.0 2017年4月12日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * @since
+ * @author
  */
 @Service
 public class EsBlogServiceImpl implements EsBlogService {
@@ -48,33 +48,25 @@ public class EsBlogServiceImpl implements EsBlogService {
 	
 	private static final Pageable TOP_5_PAGEABLE = new PageRequest(0, 5);
 	private static final String EMPTY_KEYWORD = "";
-	/* (non-Javadoc)
-	 * @see com.waylau.spring.boot.blog.service.EsBlogService#removeEsBlog(java.lang.String)
-	 */
+
 	@Override
 	public void removeEsBlog(String id) {
 		esBlogRepository.delete(id);
 	}
 
-	/* (non-Javadoc)
-	 * @see com.waylau.spring.boot.blog.service.EsBlogService#updateEsBlog(com.waylau.spring.boot.blog.domain.es.EsBlog)
-	 */
+
 	@Override
 	public EsBlog updateEsBlog(EsBlog esBlog) {
 		return esBlogRepository.save(esBlog);
 	}
 
-	/* (non-Javadoc)
-	 * @see com.waylau.spring.boot.blog.service.EsBlogService#getEsBlogByBlogId(java.lang.Long)
-	 */
+
 	@Override
 	public EsBlog getEsBlogByBlogId(Long blogId) {
 		return esBlogRepository.findByBlogId(blogId);
 	}
 
-	/* (non-Javadoc)
-	 * @see com.waylau.spring.boot.blog.service.EsBlogService#listNewestEsBlogs(java.lang.String, org.springframework.data.domain.Pageable)
-	 */
+
 	@Override
 	public Page<EsBlog> listNewestEsBlogs(String keyword, Pageable pageable) throws SearchParseException {
 		Page<EsBlog> pages = null;
@@ -88,9 +80,7 @@ public class EsBlogServiceImpl implements EsBlogService {
 		return pages;
 	}
 
-	/* (non-Javadoc)
-	 * @see com.waylau.spring.boot.blog.service.EsBlogService#listHotestEsBlogs(java.lang.String, org.springframework.data.domain.Pageable)
-	 */
+
 	@Override
 	public Page<EsBlog> listHotestEsBlogs(String keyword, Pageable pageable) throws SearchParseException{
  

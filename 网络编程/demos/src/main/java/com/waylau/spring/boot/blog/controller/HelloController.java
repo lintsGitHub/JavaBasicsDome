@@ -6,15 +6,15 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Hello World 控制器.
  * 
- * @author <a href="https://waylau.com">Way Lau</a> 
- * @date 2017年1月26日
+ * @author
+ * @date
  */
 @RestController
 public class HelloController {
 
 	@RequestMapping("/hello")
 	public String hello() {
-	    return "Hello World! Welcome to visit waylau.com!";
+	    return "Hello World! 欢迎来到博客";
 	}
  
 }

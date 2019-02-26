@@ -3,8 +3,8 @@ package com.waylau.spring.boot.blog.vo;
 /**
  * 响应 值对象.
  * 
- * @since 1.0.0 2017年4月4日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @since
+ * @author
  */
 public class Response {
 	

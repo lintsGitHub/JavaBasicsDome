@@ -16,8 +16,8 @@ import javax.persistence.OneToOne;
 /**
  * Like 实体
  * 
- * @since 1.0.0 2017年4月9日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * @since
+ * @author
  */
 @Entity // 实体
 public class Vote implements Serializable {

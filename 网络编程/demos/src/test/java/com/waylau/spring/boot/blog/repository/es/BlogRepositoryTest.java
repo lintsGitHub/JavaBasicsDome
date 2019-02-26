@@ -22,8 +22,8 @@ import com.waylau.spring.boot.blog.repository.BlogRepository;
 /**
  * BlogRepository 测试类.
  * 
- * @since 1.0.0 2017年3月12日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @since
+ * @author
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Application.class)

@@ -16,14 +16,14 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 /**
  * Spring Security 配置类.
  * 
- * @since 1.0.0 2017年3月8日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * @since
+ * @author
  */
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true) // 启用方法安全设置
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	
-	private static final String KEY = "waylau.com";
+	private static final String KEY = "lint.com";
 	
 	@Autowired
 	private UserDetailsService userDetailsService;

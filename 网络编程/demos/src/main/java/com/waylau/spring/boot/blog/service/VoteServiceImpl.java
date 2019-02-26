@@ -11,17 +11,15 @@ import com.waylau.spring.boot.blog.repository.VoteRepository;
 /**
  * Vote 服务.
  * 
- * @since 1.0.0 2017年4月9日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * @since
+ * @author
  */
 @Service
 public class VoteServiceImpl implements VoteService {
 
 	@Autowired
 	private VoteRepository voteRepository;
-	/* (non-Javadoc)
-	 * @see com.waylau.spring.boot.blog.service.VoteService#removeVote(java.lang.Long)
-	 */
+
 	@Override
 	@Transactional
 	public void removeVote(Long id) {

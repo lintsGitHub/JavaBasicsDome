@@ -12,8 +12,8 @@ import com.waylau.spring.boot.blog.repository.AuthorityRepository;
 /**
  * Authority 服务.
  * 
- * @since 1.0.0 2017年3月30日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * @since
+ * @author
  */
 @Service
 public class AuthorityServiceImpl  implements AuthorityService {

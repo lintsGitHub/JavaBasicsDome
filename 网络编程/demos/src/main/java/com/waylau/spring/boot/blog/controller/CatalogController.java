@@ -30,8 +30,8 @@ import com.waylau.spring.boot.blog.vo.Response;
 /**
  * 分类 控制器.
  * 
- * @since 1.0.0 2017年4月10日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @since
+ * @author
  */
 @Controller
 @RequestMapping("/catalogs")
