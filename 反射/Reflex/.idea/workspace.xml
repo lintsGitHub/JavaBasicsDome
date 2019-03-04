@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16671ad0-bfac-42bf-9d16-2064003ffd7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/TCP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/TCP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/CatalogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/CommentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/UserspaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/UserspaceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/VoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/controller/VoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/Authority.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/Authority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/Catalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/Vote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/domain/es/EsBlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/entity/es/EsBlog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/AuthorityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/AuthorityRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/BlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/BlogRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/CatalogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/CatalogRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/CommentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/VoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/VoteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/es/EsBlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/repository/es/EsBlogRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/AuthorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/AuthorityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/AuthorityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/AuthorityServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/BlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/BlogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/BlogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CatalogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CatalogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CatalogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CatalogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CommentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/CommentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/EsBlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/EsBlogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/EsBlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/EsBlogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/VoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/VoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/VoteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/service/VoteServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/vo/CatalogVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/java/com/waylau/spring/boot/blog/vo/CatalogVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/resources/static/js/thinker-md.vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/resources/static/js/thinker-md.vendor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/main/resources/static/js/thinker-md.vendor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/main/resources/static/js/thinker-md.vendor.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/src/test/java/com/waylau/spring/boot/blog/repository/es/BlogRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/src/test/java/com/waylau/spring/boot/blog/repository/es/BlogRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,27 +24,85 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="705" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="705" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+              <folding>
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#904#905#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome/main.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -137,6 +157,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="priv" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Reflex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="lint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reflex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="lint" type="462c0819:PsiDirectoryNode" />
+              <item name="Dome" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -164,6 +203,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome.main" />
+      <module name="Reflex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.lint.Dome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -174,12 +233,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551710642534</updated>
-      <workItem from="1551710649967" duration="307000" />
+      <workItem from="1551710649967" duration="2574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307000" />
+    <option name="totallyTimeSpent" value="2574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -189,17 +248,18 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961948" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24961948" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" weight="0.32857144" />
+      <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -229,6 +289,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
