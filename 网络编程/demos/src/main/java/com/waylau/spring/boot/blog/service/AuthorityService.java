@@ -1,6 +1,6 @@
 package com.waylau.spring.boot.blog.service;
 
-import com.waylau.spring.boot.blog.domain.Authority;
+import com.waylau.spring.boot.blog.entity.Authority;
 
 /**
  * Authority 服务接口.
@@ -13,7 +13,7 @@ public interface AuthorityService {
 	
 	/**
 	 * 根据id获取 Authority
-	 * @param
+	 * @param 用户ID
 	 * @return
 	 */
 	Authority getAuthorityById(Long id);

@@ -5,7 +5,7 @@ import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.waylau.spring.boot.blog.domain.Vote;
+import com.waylau.spring.boot.blog.entity.Vote;
 import com.waylau.spring.boot.blog.repository.VoteRepository;
 
 /**

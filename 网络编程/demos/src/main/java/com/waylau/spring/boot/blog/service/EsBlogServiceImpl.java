@@ -26,8 +26,8 @@ import org.springframework.data.elasticsearch.core.query.NativeSearchQueryBuilde
 import org.springframework.data.elasticsearch.core.query.SearchQuery;
 import org.springframework.stereotype.Service;
 
-import com.waylau.spring.boot.blog.domain.User;
-import com.waylau.spring.boot.blog.domain.es.EsBlog;
+import com.waylau.spring.boot.blog.entity.User;
+import com.waylau.spring.boot.blog.entity.es.EsBlog;
 import com.waylau.spring.boot.blog.repository.es.EsBlogRepository;
 import com.waylau.spring.boot.blog.vo.TagVO;
 

@@ -19,8 +19,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.waylau.spring.boot.blog.domain.Catalog;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Catalog;
+import com.waylau.spring.boot.blog.entity.User;
 import com.waylau.spring.boot.blog.service.CatalogService;
 import com.waylau.spring.boot.blog.util.ConstraintViolationExceptionHandler;
 import com.waylau.spring.boot.blog.vo.CatalogVO;

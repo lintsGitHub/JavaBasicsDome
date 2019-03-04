@@ -3,9 +3,9 @@ package com.waylau.spring.boot.blog.service;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
-import com.waylau.spring.boot.blog.domain.Blog;
-import com.waylau.spring.boot.blog.domain.Catalog;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Blog;
+import com.waylau.spring.boot.blog.entity.Catalog;
+import com.waylau.spring.boot.blog.entity.User;
 
 /**
  * Blog 服务接口.

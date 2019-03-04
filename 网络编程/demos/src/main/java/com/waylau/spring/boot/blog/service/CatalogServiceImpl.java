@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.waylau.spring.boot.blog.domain.Catalog;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Catalog;
+import com.waylau.spring.boot.blog.entity.User;
 import com.waylau.spring.boot.blog.repository.CatalogRepository;
 
 /**

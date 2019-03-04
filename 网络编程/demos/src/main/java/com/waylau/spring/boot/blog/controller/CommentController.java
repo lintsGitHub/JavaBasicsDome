@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.waylau.spring.boot.blog.domain.Blog;
-import com.waylau.spring.boot.blog.domain.Comment;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Blog;
+import com.waylau.spring.boot.blog.entity.Comment;
+import com.waylau.spring.boot.blog.entity.User;
 import com.waylau.spring.boot.blog.service.BlogService;
 import com.waylau.spring.boot.blog.service.CommentService;
 import com.waylau.spring.boot.blog.util.ConstraintViolationExceptionHandler;

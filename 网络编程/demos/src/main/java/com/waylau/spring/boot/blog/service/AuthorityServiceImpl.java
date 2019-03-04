@@ -6,7 +6,7 @@ package com.waylau.spring.boot.blog.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.waylau.spring.boot.blog.domain.Authority;
+import com.waylau.spring.boot.blog.entity.Authority;
 import com.waylau.spring.boot.blog.repository.AuthorityRepository;
 
 /**

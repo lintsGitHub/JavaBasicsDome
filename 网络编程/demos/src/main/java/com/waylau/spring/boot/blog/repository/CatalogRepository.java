@@ -4,8 +4,8 @@ import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.waylau.spring.boot.blog.domain.Catalog;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Catalog;
+import com.waylau.spring.boot.blog.entity.User;
 
 /**
  * Catalog 仓库.

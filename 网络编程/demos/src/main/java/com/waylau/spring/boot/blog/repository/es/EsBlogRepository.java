@@ -4,7 +4,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
-import com.waylau.spring.boot.blog.domain.es.EsBlog;
+import com.waylau.spring.boot.blog.entity.es.EsBlog;
 
 /**
  * Blog 存储库.

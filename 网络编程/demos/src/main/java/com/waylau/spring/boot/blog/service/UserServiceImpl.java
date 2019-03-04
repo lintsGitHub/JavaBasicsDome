@@ -13,7 +13,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.User;
 import com.waylau.spring.boot.blog.repository.UserRepository;
 
 /**

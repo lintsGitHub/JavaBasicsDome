@@ -6,8 +6,8 @@ import java.util.List;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
-import com.waylau.spring.boot.blog.domain.User;
-import com.waylau.spring.boot.blog.domain.es.EsBlog;
+import com.waylau.spring.boot.blog.entity.User;
+import com.waylau.spring.boot.blog.entity.es.EsBlog;
 import com.waylau.spring.boot.blog.vo.TagVO;
 
 /**

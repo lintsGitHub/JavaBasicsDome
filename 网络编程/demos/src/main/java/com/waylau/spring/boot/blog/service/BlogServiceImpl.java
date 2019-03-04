@@ -8,12 +8,12 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
-import com.waylau.spring.boot.blog.domain.Blog;
-import com.waylau.spring.boot.blog.domain.Catalog;
-import com.waylau.spring.boot.blog.domain.Comment;
-import com.waylau.spring.boot.blog.domain.User;
-import com.waylau.spring.boot.blog.domain.Vote;
-import com.waylau.spring.boot.blog.domain.es.EsBlog;
+import com.waylau.spring.boot.blog.entity.Blog;
+import com.waylau.spring.boot.blog.entity.Catalog;
+import com.waylau.spring.boot.blog.entity.Comment;
+import com.waylau.spring.boot.blog.entity.User;
+import com.waylau.spring.boot.blog.entity.Vote;
+import com.waylau.spring.boot.blog.entity.es.EsBlog;
 import com.waylau.spring.boot.blog.repository.BlogRepository;
 
 /**

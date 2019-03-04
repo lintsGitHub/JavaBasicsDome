@@ -1,6 +1,6 @@
 package com.waylau.spring.boot.blog.service;
 
-import com.waylau.spring.boot.blog.domain.Comment;
+import com.waylau.spring.boot.blog.entity.Comment;
 
 /**
  * Comment 服务接口.

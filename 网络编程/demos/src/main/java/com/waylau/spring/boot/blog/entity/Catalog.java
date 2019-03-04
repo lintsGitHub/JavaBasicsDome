@@ -1,4 +1,4 @@
-package com.waylau.spring.boot.blog.domain;
+package com.waylau.spring.boot.blog.entity;
 
 import java.io.Serializable;
 

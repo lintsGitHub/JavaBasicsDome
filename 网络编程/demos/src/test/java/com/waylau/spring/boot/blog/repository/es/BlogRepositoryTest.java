@@ -2,21 +2,13 @@ package com.waylau.spring.boot.blog.repository.es;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import java.util.List;
-
 import org.junit.Before;
-import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Pageable;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.waylau.spring.boot.blog.repository.es.EsBlogRepository;
 import com.waylau.spring.boot.blog.Application;
-import com.waylau.spring.boot.blog.domain.es.EsBlog;
 import com.waylau.spring.boot.blog.repository.BlogRepository;
 
 /**

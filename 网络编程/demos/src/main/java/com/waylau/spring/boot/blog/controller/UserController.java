@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.waylau.spring.boot.blog.domain.Authority;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Authority;
+import com.waylau.spring.boot.blog.entity.User;
 import com.waylau.spring.boot.blog.service.AuthorityService;
 import com.waylau.spring.boot.blog.service.UserService;
 import com.waylau.spring.boot.blog.util.ConstraintViolationExceptionHandler;

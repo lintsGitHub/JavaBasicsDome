@@ -9,8 +9,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import com.waylau.spring.boot.blog.domain.Authority;
-import com.waylau.spring.boot.blog.domain.User;
+import com.waylau.spring.boot.blog.entity.Authority;
+import com.waylau.spring.boot.blog.entity.User;
 import com.waylau.spring.boot.blog.service.AuthorityService;
 import com.waylau.spring.boot.blog.service.UserService;
 

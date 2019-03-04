@@ -3,7 +3,7 @@ package com.waylau.spring.boot.blog.vo;
 
 import java.io.Serializable;
 
-import com.waylau.spring.boot.blog.domain.Catalog;
+import com.waylau.spring.boot.blog.entity.Catalog;
 
 public class CatalogVO implements Serializable {
  
