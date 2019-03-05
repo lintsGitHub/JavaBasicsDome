@@ -39,13 +39,24 @@ Constructor提供了一个类的单个构造函数的信息和访问。
         Object o = constructor.newInstance();
         System.out.println(o); //Student{id=0, name='null', age=0}*/
 
-//        获取带参构造器
+/*//        获取带参构造器
         Constructor constructor = aClass.getConstructor(int.class,String.class,int.class);
         System.out.println(constructor); //获取带参构造方法对象
 //        newInstance可以传参数，参数就是构造方法对象的参数，也就是创建出来的对象的一个默认参数
         Object hello = constructor.newInstance(1, "hello", 34);
-        System.out.println(hello);
+        System.out.println(hello);*/
 
+//        通过反射获取私有构造方法并创建对象
+        Constructor declaredConstructor = aClass.getDeclaredConstructor(String.class, int.class);
+        /*
+        * IllegalAccessException
+        * 访问异常,也就是我们在赋值时进行了一个私有成员变量限制访问
+        * public void setAccessible(boolean flag)
+                   throws SecurityException将此对象的accessible标志设置为指示的布尔值。 true的值表示反射对象应该在使用时抑制Java语言访问检查。 false的值表示反映的对象应该强制执行Java语言访问检查
+        * */
+        declaredConstructor.setAccessible(true);
+        Object hello = declaredConstructor.newInstance("hello", 34);
+        System.out.println(hello);
 
     }
 }
