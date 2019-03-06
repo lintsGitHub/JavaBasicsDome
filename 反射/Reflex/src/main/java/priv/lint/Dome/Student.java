@@ -56,11 +56,16 @@ public class Student {
         System.out.println("hello,Show");
     }
 
-    public void show(String name){
+    public String show(String name){
         System.out.println("hello" + name);
+        return "This is a show method";
     }
 
     public void show(int id , String name){
         System.out.println("hello" + id + "-->" + name);
+    }
+
+    private void shows(){
+        System.out.println("private show");
     }
 }
