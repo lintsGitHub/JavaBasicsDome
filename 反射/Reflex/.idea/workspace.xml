@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16671ad0-bfac-42bf-9d16-2064003ffd7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/class.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome6/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome6/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/class.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/Dome5/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/priv/lint/Dome5/main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,33 +22,38 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.156" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="24" />
+          <entry key="properties" value="3" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3109" />
+          <entry key="java" value="3717" />
           <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3109" />
+          <entry key="JAVA" value="3717" />
           <entry key="PLAIN_TEXT" value="43" />
         </counts>
       </usages-collector>
@@ -56,36 +62,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome6/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-              <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Teacher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-              <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="107">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,11 +73,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/class.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/class.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <state>
+              <caret column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome6/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,8 +117,11 @@
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Teacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/class.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java" />
         <option value="$PROJECT_DIR$/src/main/resources/class.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/hello.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome6/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome6/Util.java" />
       </list>
     </option>
   </component>
@@ -161,6 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,12 +210,27 @@
               <item name="lint" type="462c0819:PsiDirectoryNode" />
               <item name="Dome5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Reflex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="lint" type="462c0819:PsiDirectoryNode" />
+              <item name="Dome6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reflex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,6 +241,9 @@
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SSM\Java基础\反射\Reflex\src\main\java\priv\lint\Dome6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SSM\Java基础\反射\Reflex\src\main\resources" />
       <recent name="E:\SSM\Java基础\反射\Reflex\src\main\java\priv\lint" />
@@ -246,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (4)">
+  <component name="RunManager" selected="Application.main (5)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="priv.lint.Dome1.main" />
       <module name="Reflex" />
@@ -299,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome.main" />
+    <configuration name="main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome6.main" />
       <module name="Reflex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="priv.lint.Dome.*" />
+          <option name="PATTERN" value="priv.lint.Dome6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,19 +328,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.main" />
       <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.main (2)" />
       <item itemvalue="Application.main (3)" />
       <item itemvalue="Application.main (4)" />
+      <item itemvalue="Application.main (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (5)" />
         <item itemvalue="Application.main (4)" />
         <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -342,17 +357,18 @@
       <workItem from="1551710649967" duration="2902000" />
       <workItem from="1551800987767" duration="4035000" />
       <workItem from="1551884108966" duration="5367000" />
+      <workItem from="1551920025768" duration="7640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12304000" />
+    <option name="totallyTimeSpent" value="19944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2587519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26331812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -360,17 +376,17 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.54285717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3984127" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Executor" order="11" />
-      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="10" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32857144" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -389,9 +405,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/App.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -440,13 +453,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="120">
+          <caret line="5" column="5" lean-forward="true" selection-end-line="7" />
           <folding>
             <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -454,20 +474,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <caret line="4" column="40" selection-end-line="7" />
           <folding>
             <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -475,7 +485,47 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/class.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome6/class.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/class.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome6/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome6/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

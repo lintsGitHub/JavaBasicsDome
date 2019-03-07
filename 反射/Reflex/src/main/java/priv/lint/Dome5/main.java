@@ -1,6 +1,7 @@
 package priv.lint.Dome5;
 
 
+import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -24,11 +25,13 @@ public class main {
 //        student.show();
 
 //        使用反射后的一个做法
-//        加载键值对数据源，也就是class.txt文件
         Properties properties = new Properties();
-        FileReader fileReader = new FileReader("E:/SSM/Java基础/反射/Reflex/src/main/resources/class.txt");
-        properties.load(fileReader);
-        fileReader.close();
+//        加载键值对数据源，也就是class.txt文件
+//        FileReader reader = new FileReader("E:/SSM/Java基础/反射/Reflex/src/main/resources/class.txt");
+//        加载键值对数据源，也就是class.properties文件
+        BufferedReader reader = new BufferedReader(new FileReader("E:/SSM/Java基础/反射/Reflex/src/main/resources/class.properties"));
+        properties.load(reader);
+        reader.close();
 //        获取数据
         String className = (String) properties.get("className");
         String  methodName = (String) properties.get("methodName");
@@ -41,7 +44,6 @@ public class main {
 //        使用方法
         Method method = aClass.getMethod(methodName);
         method.invoke(o);
-
 
     }
 }
