@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93858411-2165-4f79-a983-e0d6166f13ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../IO流/TxtIOReadDome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IO流/TxtIOReadDome/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/_state/global-6.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/_state/state-6.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/index/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/0/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/_state/state-6.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/index/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/1/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/_state/state-6.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/index/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/2/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/_state/state-6.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/index/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/3/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/_state/state-6.st" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/index/segments_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" beforeDir="false" afterPath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/4/translog/translog.ckp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../网络编程/demos/data/elasticsearch/nodes/0/indices/blog/_state/state-8.st" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../反射/Reflex/src/main/java/priv/lint/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../反射/Reflex/src/main/java/priv/lint/pcope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../反射/Reflex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../反射/Reflex/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,42 +60,49 @@
     <session id="-1630306285">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ge_enterprise_category" value="1" />
           <entry key="ge_institution" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="9" />
           <entry key="sql" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="2" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="9" />
           <entry key="Scratch" value="2" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="358" />
+          <entry key="java" value="694" />
           <entry key="sql" value="29" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="358" />
+          <entry key="JAVA" value="694" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Scratch" value="29" />
         </counts>
@@ -117,7 +110,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/lint/LintTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Tow/LinkedListDome.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Third/Dome.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8c23d8b3-5cc2-42e3-8467-2e2860693087/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/lint/LintTest.java" />
       </list>
     </option>
   </component>
@@ -165,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +223,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -220,7 +232,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Vert/SimpleUse" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
@@ -237,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dome">
+  <component name="RunManager" selected="JUnit.LintTest.ts1">
     <configuration name="Dome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="priv.lint.Third.Dome" />
       <module name="InterviewQuestionCode(面试代码)" />
@@ -277,13 +289,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LintTest.ts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestionCode(面试代码)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.lint.lint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="priv.lint.lint" />
+      <option name="MAIN_CLASS_NAME" value="priv.lint.lint.LintTest" />
+      <option name="METHOD_NAME" value="ts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LintTest.ts1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewQuestionCode(面试代码)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.lint.lint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="priv.lint.lint" />
+      <option name="MAIN_CLASS_NAME" value="priv.lint.lint.LintTest" />
+      <option name="METHOD_NAME" value="ts1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Question1" />
       <item itemvalue="Application.LinkedListDome" />
       <item itemvalue="Application.Dome" />
+      <item itemvalue="JUnit.LintTest.ts" />
+      <item itemvalue="JUnit.LintTest.ts1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LintTest.ts1" />
+        <item itemvalue="JUnit.LintTest.ts" />
         <item itemvalue="Application.Dome" />
         <item itemvalue="Application.LinkedListDome" />
         <item itemvalue="Application.Question1" />
@@ -307,16 +355,52 @@
       <workItem from="1550709455437" duration="593000" />
       <workItem from="1551057084529" duration="4802000" />
       <workItem from="1551084164760" duration="7000" />
+      <workItem from="1552024820918" duration="1568000" />
+      <workItem from="1552224722670" duration="594000" />
+      <workItem from="1552262164227" duration="4476000" />
+      <workItem from="1552287501258" duration="747000" />
+      <workItem from="1552292240657" duration="216000" />
+      <workItem from="1552304061514" duration="595000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="LintTest_ts - 2019.03.08 at 14h 05m 37s.xml">
+      <configuration name="LintTest.ts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.08 at 14h 22m 35s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.08 at 14h 22m 59s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.08 at 14h 23m 22s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.08 at 14h 25m 36s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.11 at 09h 06m 05s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.11 at 09h 44m 00s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.11 at 09h 50m 19s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LintTest_ts1 - 2019.03.11 at 09h 52m 01s.xml">
+      <configuration name="LintTest.ts1" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14970000" />
+    <option name="totallyTimeSpent" value="23166000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="681" height="468" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.29375952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.152207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -324,7 +408,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33809525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,9 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Third/Dome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -464,6 +545,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2976">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/lint/LintTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
