@@ -12,9 +12,11 @@ public class main {
         userDAO.add();
         System.out.println("==============");
 
-        //对User做一个代理对象
+        //对User中的方法做一个加工
         MyInvocationHandler myInvocationHandler = new MyInvocationHandler(userDAO);
+//        获取一个代理对象
         UserDAO proxy = (UserDAO) Proxy.newProxyInstance(userDAO.getClass().getClassLoader(), userDAO.getClass().getInterfaces(), myInvocationHandler);
+//        执行这个代理对象的一个方法
         proxy.add();
     }
 }
