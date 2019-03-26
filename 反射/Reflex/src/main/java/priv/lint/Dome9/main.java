@@ -7,5 +7,12 @@ public class main {
         stu.delete();
         stu.update();
         stu.search();
+
+        /*
+        * 1,进行权限验证
+        * 2,记录日志
+        * */
+
+
     }
 }
