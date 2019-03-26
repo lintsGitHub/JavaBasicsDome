@@ -1,8 +1,10 @@
 package priv.lint.lint;
 
 import org.junit.jupiter.api.Test;
+import priv.lint.Tow.Student;
 
 import java.util.Date;
+import java.util.StringJoiner;
 
 public class LintTest {
 
@@ -27,6 +29,22 @@ public class LintTest {
 //        A a = new A();
 //        B b = (B) a; //报错
 //        B a = (B) new A(); //报错
+
+//        StringJoiner构造函数传一个分隔符
+//        如果StringJoiner构造函数传三个参数：1，分隔符 2，前缀 3，后缀
+//        StringJoiner stringJoiner = new StringJoiner(",","aa","cc");
+//        stringJoiner.add("word").add("aaaa");
+//        System.out.println(stringJoiner.toString());
+//        String hello = new String("hello");
+//        String hello1 = new String("hello");
+//        System.out.println(hello.hashCode());
+//        System.out.println(hello1.hashCode());
+        Student student = new Student(23,"hells");
+        Student student2 = new Student(23,"hells");
+        System.out.println(student.hashCode() == student2.hashCode());
+        System.out.println(student.hashCode());
+        System.out.println(student2.hashCode());
+        System.out.println(student.equals(student2));
 
     }
 

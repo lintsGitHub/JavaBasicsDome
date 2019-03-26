@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16671ad0-bfac-42bf-9d16-2064003ffd7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/pcope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome7/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome8/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/priv/lint/Dome8/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/priv/lint/pcope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/priv/lint/pcope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/main/java/priv/lint/Tow/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/main/java/priv/lint/Tow/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/main/java/priv/lint/lint/LintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/src/main/java/priv/lint/lint/LintTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/First/Question1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/Third/Dome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/Third/Dome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/Tow/LinkedListDome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/Tow/LinkedListDome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/Tow/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/Tow/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/LintTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/LintTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/c.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/c.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/stu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../面试/InterviewQuestionCode(面试代码)/target/classes/priv/lint/lint/stu.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,19 +38,19 @@
     <session id="-24874682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.156" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
+          <entry key="java" value="29" />
           <entry key="properties" value="3" />
           <entry key="txt" value="3" />
           <entry key="xml" value="1" />
@@ -38,7 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="29" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="1" />
@@ -46,47 +66,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3859" />
+          <entry key="java" value="4486" />
           <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3859" />
+          <entry key="JAVA" value="4486" />
           <entry key="PLAIN_TEXT" value="43" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/pcope.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-              <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,8 +107,11 @@
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome5/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome6/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome6/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/priv/lint/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/priv/lint/pcope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome7/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome8/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/priv/lint/Dome8/Tool.java" />
       </list>
     </option>
   </component>
@@ -136,7 +132,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="681" />
@@ -197,19 +193,41 @@
               <item name="Reflex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="lint" type="462c0819:PsiDirectoryNode" />
+              <item name="Dome8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reflex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="lint" type="462c0819:PsiDirectoryNode" />
+              <item name="Dome8" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Reflex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
@@ -235,13 +253,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome3.main" />
+  <component name="RunManager" selected="Application.main (2)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome7.main" />
       <module name="Reflex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="priv.lint.Dome3.*" />
+          <option name="PATTERN" value="priv.lint.Dome7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome4.main" />
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.lint.Dome8.main" />
       <module name="Reflex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="priv.lint.Dome4.*" />
+          <option name="PATTERN" value="priv.lint.Dome8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,19 +320,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.main (2)" />
-      <item itemvalue="Application.main (3)" />
       <item itemvalue="Application.main (4)" />
       <item itemvalue="Application.main (5)" />
       <item itemvalue="Application.main" />
+      <item itemvalue="Application.main (1)" />
+      <item itemvalue="Application.main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.main (5)" />
         <item itemvalue="Application.main (4)" />
-        <item itemvalue="Application.main (3)" />
-        <item itemvalue="Application.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -334,24 +352,24 @@
       <workItem from="1551920025768" duration="8847000" />
       <workItem from="1551956789026" duration="581000" />
       <workItem from="1552008292733" duration="629000" />
+      <workItem from="1553404948661" duration="5786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22361000" />
+    <option name="totallyTimeSpent" value="28147000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24200913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24657534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2746032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -473,25 +491,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/pcope.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="122">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#115#116#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome7/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome8/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="13" lean-forward="true" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/priv/lint/Dome8/Tool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="12" column="24" lean-forward="true" selection-end-line="17" />
         </state>
       </provider>
     </entry>
